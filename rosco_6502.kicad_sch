@@ -9286,10 +9286,6 @@
 		(uuid "3a4d59b1-a1bd-4e05-bc4a-f2580f2e6ee9")
 	)
 	(no_connect
-		(at 228.6 152.4)
-		(uuid "3ac73115-b0e7-4de1-aa54-47d2dd869fa9")
-	)
-	(no_connect
 		(at 228.6 157.48)
 		(uuid "3ac73115-b0e7-4de1-aa54-47d2dd869fab")
 	)
@@ -14164,7 +14160,7 @@
 			)
 		)
 	)
-	(global_label "~{DUASEL}"
+	(global_label "~{DUACS}"
 		(shape input)
 		(at 97.79 152.4 0)
 		(fields_autoplaced yes)
@@ -14176,7 +14172,7 @@
 		)
 		(uuid "885b3d59-636b-4695-a3df-0d4ba46f8d23")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.2788 152.3206 0)
+			(at 106.9438 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15996,6 +15992,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "~{DUACS}"
+		(shape output)
+		(at 228.6 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dae94208-2a58-4e1f-9ab6-49471a5b4a52")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 237.7538 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)

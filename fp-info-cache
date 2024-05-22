@@ -1,4 +1,4 @@
-23076352691285076
+23078082188108729
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62173,6 +62173,13 @@ Lioncub
 0
 0
 0
+Jaynes
+PB613xxx
+
+
+0
+8
+8
 Jaynes
 SOIC-28W_7.5x18.7mm_P1.27mm
 SOIC, 28 Pin (https://www.akm.com/akm/en/file/datasheet/AK5394AVS.pdf#page=23), generated with kicad-footprint-generator ipc_gullwing_generator.py
